@@ -1382,6 +1382,7 @@
 - [Zahin Nambiar](https://github.com/Zahin-Nambiar)
 - [Joe Irvine](https://github.com/TheShonuff)
 - [Santosh Rai](https://github.com/santosrai)
+- [Ram Giri](https://github.com/ram-giri)
 
 
 <!-- prettier-ignore-end -->
